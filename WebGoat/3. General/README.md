@@ -3,7 +3,7 @@
 I just go through the GENERAL chapter in overall. 
 
 ## HTTP Basics & HTTP Proxies
-With this challenge, you just need to intercept the requests and change to the things by using some web proxy like OWASP ZAP or Burp Suite. 
+With this challenge, you just need to intercept the requests and change the things by using some web proxy like OWASP ZAP or Burp Suite. 
 
 ## Developer Tools 
 Run the Chrome Developer Tools in the browser and do the tasks in the assignments to complete the challenge.
