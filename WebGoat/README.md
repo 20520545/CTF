@@ -2,7 +2,7 @@
 
 ![WebGoat](https://avatars.githubusercontent.com/u/7718244?s=200&v=4)
 
-A way to learn web fundamentals and exploitations.Information can be found from [OWASP](https://owasp.org/www-project-webgoat/) and [Github](https://github.com/WebGoat/WebGoat).
+A way to learn web fundamentals and exploitations. Information can be found from [OWASP](https://owasp.org/www-project-webgoat/) and [Github](https://github.com/WebGoat/WebGoat).
 
 List of chapter of the challenge:
 
