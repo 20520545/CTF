@@ -6,22 +6,20 @@ A way to learn web fundamentals and exploitations.Information can be found from 
 
 List of chapter of the challenge:
 
-[General](General/README.md)
+[General](1.General/README.md)
 
-[(A1) Injection]((A1)Injection/README.md)
+[(A1) Injection](2.Injection/README.md)
 
-[(A2) Broken Authentication]((A2)BrokenAuth/README.md)
+[(A2) Broken Authentication](3.BrokenAuth/README.md)
 
-[(A4)XXE](XXE/README.md)
+[(A4)XXE](4.XXE/README.md)
 
-[(A5) Broken Access Control](BrokenAccessControl/README.md)
+[(A5) Broken Access Control](5.BrokenAccessControl/README.md)
 
-[(A7) Cross-Site Scripting](XSS/README.md)
+[(A7) Cross-Site Scripting](6.XSS/README.md)
 
-[(A8) Insecure Deserialization](InsecureDeserialize/README.md)
+[(A8:2013) Request Forgeries](7.RequestForgeries/README.md)
 
-[(A8:2013) Request Forgeries](RequestForgeries/README.md)
+[Client Side](8.ClientSide/README.md)
 
-[Client Side](ClientSide/README.md)
-
-[Challenges](Challenges/README.md)
+[Challenges](9.Challenges/README.md)
