@@ -42,4 +42,5 @@ Get the `/WebGoat/lesson_js/clientSideFilteringFree.js` endpoint at the client's
 
 ## HTML tampering
 
-Like previous challenge, change the price in the request and send it again.
+Intercept the request, reduce the cost and sent it again.
+`QTY=1&Total=0`
