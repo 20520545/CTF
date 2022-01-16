@@ -16,4 +16,4 @@ s.cookies.set('loggedin','5',domain=url,path='/')
 r= s.get(url)
 print(r.text)
 #Aiming for the challenge is authenticate through the cookie 'loggedin' which can 
-# access through changing from 0 to other number != 0.
+#access through changing from 0 to other number != 0.
